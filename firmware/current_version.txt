@@ -1,4 +1,4 @@
-8.8.8.1.0
+7.5.8.1.0
  * Increased I constant to .750
 7.5.5.1.0
  * Fix for change filament timeouts ending in non-resumable prints
